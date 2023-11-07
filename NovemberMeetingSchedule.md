@@ -57,8 +57,6 @@ Before the meeting:
 
 #### **Day 2: Project Resources and Logistics**
 
-
-
 * **9:00 - 9:30 AM:** Breakfast
 * **9:30 - 11:00 AM:** Resource Planning
     * Software, repositories, communication channels
