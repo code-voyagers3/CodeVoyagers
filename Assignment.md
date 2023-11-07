@@ -26,6 +26,7 @@ Within these terms, each team are free to choose its own platform, layout and co
 - the content of the application must be data driven (provided by an api or a CMS)
 - The application must contain at least one of each CRUD operations
 - The application must be responsive with a mobile first approach
+- You have to document both code as well as workflow and process 
 ___
  
 The display form can be, for example, a list of search and filtering, a route guide, a treasure hunt or other form of competition.
@@ -36,24 +37,12 @@ It is permitted to use 3rd party data in the App, such as if you want to downloa
 Project requirements
 You have to work in teams on the project.
  
-·  	Each team must consist of at least one Icelandic, Spanish and Danish students
-·  	Your team must use GITHUB and DESIGN SPRINT as a workflow framework.
-·  	Your team must work together to create a plan for themes and activities to include in the riddle hunt and collect any information and pictures of these activities.
 ·  	Your team needs to create mockups and designs for the app and set this up with the necessary technologies.
-·  	Your team must develop and program functionality for any user interaction.
 ·  	Your team must document your daily work using schedules and evaluating them.
 ·  	Your team is responsible for hosting the app on an online hosting solution.
 ·  	Your team should present the final result on the deadline date.
-Technical requirements
-The web app should be built as a responsive web app with the use of following technical requirements:
 
-·  	HTML
-·  	Precompiled CSS (SASS, SCSS)
-·  	Javascript / React /
-·  	A suitable backend technology like Node.js or similar with a connection to an SQL/NoSQL database
-Additional objectives
-All teams are free to develop and use their own RESTful API for data sourcing.
-Deadline
+## Deadline
 Deadline for the project is set to March 18 where your team will be expected to make a presentation of the app.
  
 Good luck
