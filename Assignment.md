@@ -21,7 +21,7 @@ Within these terms, each team are free to choose its own platform, layout and co
 - Content of the application must be data driven (provided by an api or a CMS)
 - The application must contain at least one of each CRUD operations
 - The application must be responsive with a mobile first approach
-- Teams must ensure a good an accessable documentation for all code as well as work and design process
+- Teams must ensure a good an accessable documentation for all code as well as work and design processes
 - Teams must do a presentation of their final result on the deadline date
 
 ## Deadline & Presentation
@@ -29,6 +29,3 @@ Within these terms, each team are free to choose its own platform, layout and co
 Deadline for the project is set to March 18 where your team will be expected to make a presentation of the application.
  
 Good luck
- 
- 
-
