@@ -19,14 +19,15 @@ The compilation could be themed around specific categories such as eateries, bea
  
 Within these terms, each team are free to choose its own platform, layout and content.
 
-## Terms
+## General Terms
 
-- The applikation must be build with a typescript based framework
-- The chosen techstack must be the most affordable for the gathered compentencies in the group
-- the content of the application must be data driven (provided by an api or a CMS)
+- Teams must use a typescript based framework for the application development
+- Teams must choose the most affordable techstack for the common compentencies in the group
+- Content of the application must be data driven (provided by an api or a CMS)
 - The application must contain at least one of each CRUD operations
 - The application must be responsive with a mobile first approach
-- You have to document both code as well as workflow and process 
+- Teams must document both code as well as work and design process
+
 ___
  
 The display form can be, for example, a list of search and filtering, a route guide, a treasure hunt or other form of competition.
