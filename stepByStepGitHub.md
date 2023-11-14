@@ -9,4 +9,4 @@
 <br>
 <br>
 <br>
-Explnation: https://css-tricks.com/custom-styles-in-github-readmes/
+Explanation: https://css-tricks.com/custom-styles-in-github-readmes/
