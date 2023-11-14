@@ -2,7 +2,6 @@
 	<br>
 		<img src="hack.svg" width="800" height="400" alt="Click to see the source">
 	<br>
-  <h1>Notes for GitHub workflow<br/>To use in daily tasks</h1>
 </div>
 
 
