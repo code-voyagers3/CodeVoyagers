@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
   <a>
-		<img src="hack.svg" width="800" height="400" alt="Click here to see the source">
+		<img src="./hack.svg" width="800" height="400" alt="Click here to see the source">
   </a>
 	<br>
 </div>
