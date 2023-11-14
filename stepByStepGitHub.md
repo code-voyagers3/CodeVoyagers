@@ -1,8 +1,6 @@
 <div align="center">
 	<br>
-	<a href="./hack.svg">
-		<img src="./hack.svg" width="800" height="400" alt="Click here to see the source">
-	</a>
+		<img src="./hack.svg" width="800" height="400" alt="Click to see the source">
 	<br>
 </div>
 
