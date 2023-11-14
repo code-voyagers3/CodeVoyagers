@@ -82,9 +82,9 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Notes for GitHub workflow<br/>To use in daily tasks</h1>
+				<h1>Notes for GitHub<br/>To use in daily tasks</h1>
 				<p>Click to see the source</p>
-        <script>alert("javascript is working here")</script>
+        <script src="test.js"></script>
 			</div>
 		</div>
 	</foreignObject>
