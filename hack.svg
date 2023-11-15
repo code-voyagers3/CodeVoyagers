@@ -130,7 +130,7 @@
 				</header>
 				<main>
 					<div class="toggle-switch">
-						<input type="checkbox" id="issueToggle" />
+						<input type="checkbox" id="issueToggle"></input>
 						<label for="issueToggle">I need to make an issue first</label>
 						<div class="issue-steps">
 							<section id="step9">
