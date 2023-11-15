@@ -1,2 +1,3 @@
-#this should be a heading
-![steps to finish a guide](./hack.svg)
+<picture align="center">
+		<img src="./hack.svg" width="800" height="2000" alt="Click to see the source"></img>
+</picture>
