@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+      @keyframes rotate {
+        0% {
+          transform: rotate(3deg);
+        }
+        100% {
+          transform: rotate(-3deg);
+        }
+      }
+
+      @keyframes gradientBackground {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+      }
+
+      @keyframes fadeIn {
+        0% {
+          opacity: 0;
+        }
+        66% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 1;
+        }
+      }
+
+      .container {
+        font-family:
+          system-ui,
+          -apple-system,
+          'Segoe UI',
+          Roboto,
+          Helvetica,
+          Arial,
+          sans-serif,
+          'Apple Color Emoji',
+          'Segoe UI Emoji';
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+        width: 100%;
+        height: 400px;
+        background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+        background-size: 600% 400%;
+        animation: gradientBackground 10s ease infinite;
+        border-radius: 10px;
+        color: white;
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 50px;
+        line-height: 1.3;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        text-shadow:
+          0 1px 0 #efefef,
+          0 2px 0 #efefef,
+          0 3px 0 #efefef,
+          0 4px 0 #efefef,
+          0 12px 5px rgba(0, 0, 0, 0.1);
+        animation: rotate ease-in-out 1s infinite alternate;
+      }
+
+      p {
+        font-size: 20px;
+        text-shadow: 0 1px 0 #efefef;
+        animation: 1s ease 0s normal forwards 1 fadeIn;
+      }
+      section {
+        background: #fff;
+        margin-bottom: 20px;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        transition: background-color 0.3s ease;
+      }
+      section:nth-child(even) {
+          background: #f8f8f8;
+      }
+      section:hover {
+          background-color: #e7e7e7;
+      }
+      .issue-steps {
+        display: none;
+      }
+
+      #issueToggle:checked ~ .issue-steps {
+          display: block;
+      }
+
+      /* Style for the toggle-switch */
+      .toggle-switch {
+          padding: 10px;
+          background-color: #f0f0f0;
+          text-align: center;
+      }
+
+      .toggle-switch input[type="checkbox"] {
+          display: none;
+      }
+
+      .toggle-switch label {
+          cursor: pointer;
+          padding: 5px 10px;
+          background-color: #ddd;
+          border-radius: 5px;
+      }
+
+      .toggle-switch label:hover {
+          background-color: #ccc;
+      }
+    </style>
+    <div>
+      <header class="container">
+        <h1>GitHub Side notes<br/>For daily use</h1>
+      </header>
+      <main>
+        <div class="toggle-switch">
+          <input type="checkbox" id="issueToggle"></input>
+          <label for="issueToggle">I need to make an issue first</label>
+          <div class="issue-steps">
+            <section id="step9">
+                <h2>Step 9: Add items to the backlog (see detailed version <a href="./README.md#steps-all-along-the-project-backlog">here</a>)</h2>
+                <p>
+                  After the design sprint your group will have some items in the backlog
+                  but during the project you will probably find more things that need to
+                  be added to the backlog. You could add these tasks during or after the daily
+                  standup or at any other time, just make sure your whole group knows about it
+                </p>
+            </section>
+            <section id="step10">
+                <h2>Step 10: Drag issues to the "Ready" column</h2>
+                <p>
+                  Before each "sprint" the group decides what tasks you are going to work on for that "sprint".
+                  When you have decided what tasks you are going to work on, drag them to the "Ready" column.
+                </p>
+            </section>
+            <section id="step11">
+              <h2>Step 11: Convert the item to an issue</h2>
+              <p>
+                If the item is something that needs to be coded, you need to convert it to an issue so that it
+                can be marked in a pull request.
+              </p>
+            </section>
+            <section id="step12">
+              <h2>Step 12: Assign issue to a repository</h2>
+              <p>
+                Some projects might have two repositories (one for the back-end and another for the front-end) and in that case you 
+                assign the issue to the correct repository. If you only have one repository you just assign all the issues to that repository.
+              </p>
+            </section>
+            <section id="step13">
+              <h2>Step 13: Assign issues to developers</h2>
+              <p>
+                When you create the issue you might already know who is going to work on it, if that is the case
+                you can assign the issue to that person. If you don't know yet who is going to work on it you can skip this step
+              </p>
+            </section>
+          </div>
+        </div>
+        <section id="step14">
+          <h2>Step 14: Drag issues to the "In-Progress" column (see detailed version <a href="./README.md#steps-developing-an-issue-in-progress">here</a>)</h2>
+          <p>
+            When you have decided what issue you want to work on you drag it to the "In-Progress" column.
+          </p>
+        </section>
+        <section id="step15">
+          <h2>Step 15: Create a branch locally</h2>
+          <p>
+            <ol>
+              <li>Make sure you are on the develop branch </li>
+              <li>Pull from develop branch</li>
+              <li>Make, and checkout your own branch named issue#nr (where nr is the number of the issue you are trying to resolve)</li>
+            </ol>
+          </p>
+        </section>
+        <section id="step16">
+          <h2>Step 16: Work on the issue</h2>
+          <p>
+            change and add code to the project until you have solved the issue
+          </p>
+        </section>
+        <section id="step17">
+          <h2>Step 17: push your code to your new branch</h2>
+          <p>
+            Write the following in your terminal:
+            <ol>
+              <li>git add . </li>
+              <li>git commit -m "issue#nr - some text (where nr is the number of your issue and "some text" is a description of what you did)</li>
+              <li>git push origin issue#nr (remember to change the nr to the number of your issue)</li>
+            </ol>
+          </p>
+        </section>
+        <section id="step18">
+          <h2>Step 18: Create a pull request</h2>
+          <p>
+            Go to GitHub and create a pull request from your branch into the devlop branch
+          </p>
+        </section>
+        <section id="step20">
+          <h2>Keep in mind</h2>
+          <p>
+            Remember to check on pending pull requests regularly and give helpful code reviews for them.
+            To get started with code reviews you can try to compy-paste the code from the pull request into
+            chatGPT and ask it to help you make a code review
+          </p>
+        </section>
+      </main>
+    </div>
+  </div>
+</body>
+</html>
