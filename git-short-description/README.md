@@ -117,13 +117,14 @@ Just create a new local project in Visual Studio Code in a new folder. After tha
 git init
 git add .
 git commit -m "first commit"
-git branch main
 git remote add origin <<your github's repository url>>
-git push origin main
 
 git branch -M develop
-git checkout develop
 git push origin develop
+
+git branch main
+git push origin main
+
 ```
 
 * **Step 7: Creating Github rules for main branch and develop branch.**
