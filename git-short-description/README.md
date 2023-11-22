@@ -16,7 +16,7 @@ You need a working environment with:
 
 <img src="screenshots/screenshot-00.png"/>
 
-[Download this image as PDF file](docs/20231111-Git-Step-By-Step.pdf)
+[Download this image as PDF file](docs/20231122-Git-Step-By-Step.pdf)
 
 ## The steps of this step-by-step short guide
 
