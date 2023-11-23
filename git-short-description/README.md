@@ -109,20 +109,7 @@ We will work with the following board columns, so that please delete the first d
 
 <img src="screenshots/screenshot-04-short.png"/>
 
-
-* **Step 6: Creating Github rules for main branch and develop branch.**
-
-Clic on the tab ```Settings``` and then create rules for main and develop branches in Github.
-
-
-<img src="screenshots/screenshot-22-short.png"/>
-
-* **Step 7: Creating a local project in Visual Studio Code.**
-
-Just create a new local project in Visual Studio Code in a new folder.
-
-
-* **Step 8: Creating main and develop branches locally and push your first commit.**
+* **Step 6: Creating main and develop branches locally and push your first commit.**
 
 Just create a new local project in Visual Studio Code in a new folder. After that create some files (maybe your README.md file), and introduce the following git commands:
 
@@ -130,14 +117,26 @@ Just create a new local project in Visual Studio Code in a new folder. After tha
 git init
 git add .
 git commit -m "first commit"
-git branch -M main
 git remote add origin <<your github's repository url>>
+
+git branch -M develop
+git push origin develop
+
+git branch main
 git push origin main
 
-git branch develop
-git checkout develop
-git push origin develop
 ```
+
+* **Step 7: Creating Github rules for main branch and develop branch.**
+
+Clic on the tab ```Settings``` and then create rules for main and develop branches in Github.
+
+
+<img src="screenshots/screenshot-22-short.png"/>
+
+* **Step 8: Creating a local project in Visual Studio Code.**
+
+Just create a new local project in Visual Studio Code in a new folder.
 
 
 ### Steps all along the project (Backlog)
