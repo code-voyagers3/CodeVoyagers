@@ -1,4 +1,3 @@
-#This is the guide for github
-some addition here
-
-Smari is a handsome fragile man... and also Jacub
+<picture align="center">
+		<img src="./hack.svg" width="800" height="2000" alt="Click to see the source"></img>
+</picture>
