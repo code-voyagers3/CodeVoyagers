@@ -4,7 +4,7 @@ First Week |	26.02 Monday |	27.02 Tuesday |	28.02 Wednesday | 29.02 Thursday |	0
 
 Second week |	04.03 Monday |	05.03 Tuesday |	06.03 Wednesday |	07.03 Thursday |	08.03 Friday |	09.03 Saturday |	10.03 Sunday
 -- | -- | -- | -- | -- | -- | -- | --
-LAS PALMAS |	Meetup @ El Rincon |	Icebreaking |	Working on the project |	Working on the project |	Working on the project |	Common Activity |	Free
+LAS PALMAS |	Breakfast & Icebreaking @ El Rincon |	Working on the project |	Working on the project |	Working on the project |	Working on the project |	Common Activity |	Free
 
 Third week |	11.03 Monday |	12.03 Tuesday |	13.03 Wednesday |	14.03 Thursday |	15.03 Friday
 -- | -- | -- | -- | -- | --
