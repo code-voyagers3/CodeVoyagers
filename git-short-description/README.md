@@ -16,7 +16,7 @@ You need a working environment with:
 
 <img src="screenshots/screenshot-00.png"/>
 
-[Download this image as PDF file](docs/20231111-Git-Step-By-Step.pdf)
+[Download this image as PDF file](docs/20231122-Git-Step-By-Step.pdf)
 
 ## The steps of this step-by-step short guide
 
@@ -28,9 +28,9 @@ This short guide is divided into:
 * First steps done only once at the beginning of a project
   - Step 4: Creating a Github repository and adding collaborators.
   - Step 5: Creating a Github project.
-  - Step 6: Creating Github rules for main branch and develop branch.
-  - Step 7: Creating a local project in Visual Studio Code.
-  - Step 8: Creating main and develop branches locally and push your first commit.
+  - Step 6: Creating main and develop branches locally and push your first commit.
+  - Step 7: Creating Github rules for main branch and develop branch.
+  - Step 8: Creating a local project in Visual Studio Code.
 * Steps all along the project (Backlog)
   - Step 9: Adding items to the backlog at anytime.
 * Steps during Scrum sprint design (Ready)
