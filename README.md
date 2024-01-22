@@ -3,12 +3,11 @@
 # Table of Contents
 
 1. [To contribute to this project you should](#to-contribute-to-this-project-you-should)
-2. [Assignment](Assignment.md)
-3. [November meeting schedule](NovemberMeetingSchedule.md)
-4. [Schedule](schedule.md)
-5. [Step by step Github](stepByStepGitHub.md)
-6. [Thoughts for next years project](ThoughtsForNextYearsProject.md)
-7. [Git short description](git-short-description/README.md)
+2. [Assignment](./Assignment/)
+3. [November meeting schedule](./Meeting%20Notes/NovemberMeetingSchedule.md)
+4. [Schedule](./Schedule/)
+5. [Step by step Github](./Guides/Workflow%20Long/)
+6. [Thoughts for next years project](./Meeting%20Notes/ThoughtsForNextYearsProject.md)
 
 <a name="to-contribute-to-this-project-you-should"></a>
 ## To contibute to this project you should:
