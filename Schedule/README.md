@@ -1,3 +1,43 @@
+<html>
+<head>
+<style>
+	table {
+		border: solid 1px black;
+	}
+	
+	th {
+		background-color: LightSteelBlue;;
+		color: SteelBlue;
+		border-right: solid 1px black !important;
+		border-bottom: solid 1px black !important;
+	}
+
+	td {
+		vertical-align: top;
+		width: 10%;
+		height: 100px;
+		border-bottom: solid 1px black !important;
+		border-right: solid 1px black !important;
+		background-color: AliceBlue;
+		color: black;
+	}
+
+	td:first-child {
+		background-color: LightSteelBlue;
+		width: 5%;
+	}
+
+	span {
+		display: block;
+		color: SteelBlue;
+		font-weight: bold;
+		margin-bottom: 10px;
+		font-size: 0.8rem;
+	}
+</style>
+</head>
+<body>
+
 # Project Schedule
 
 Week | Monday | Tuesday |	Wednesday | Thursday | Friday | Saturday | Sunday 
@@ -43,39 +83,5 @@ Link to Presentation.
 
 ### What should students be able to do by the end?
 Students are going to learn how to collaborate with students from different cultures and how to manage a project
-
-<style>
-	table {
-		border: solid 1px black;
-	}
-	
-	th {
-		background-color: LightSteelBlue;;
-		color: SteelBlue;
-		border-right: solid 1px black !important;
-		border-bottom: solid 1px black !important;
-	}
-
-	td {
-		vertical-align: top;
-		width: 10%;
-		height: 100px;
-		border-bottom: solid 1px black !important;
-		border-right: solid 1px black !important;
-		background-color: AliceBlue;
-		color: black;
-	}
-
-	td:first-child {
-		background-color: LightSteelBlue;
-		width: 5%;
-	}
-
-	span {
-		display: block;
-		color: SteelBlue;
-		font-weight: bold;
-		margin-bottom: 10px;
-		font-size: 0.8rem;
-	}
-</style>
+</body>
+</html>
