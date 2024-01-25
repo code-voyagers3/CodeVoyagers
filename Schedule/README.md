@@ -1,14 +1,10 @@
-First Week |	26.02 Monday |	27.02 Tuesday |	28.02 Wednesday | 29.02 Thursday |	01.03 Friday
--- | -- | -- | -- | -- | --
-(ONLINE WEEK) | DESIGN SPRINT | DESIGN SPRINT |	DESIGN SPRINT |	DESIGN SPRINT |	DESIGN SPRINT
+# Project Schedule
 
-Second week |	04.03 Monday |	05.03 Tuesday |	06.03 Wednesday |	07.03 Thursday |	08.03 Friday |	09.03 Saturday |	10.03 Sunday
+Week | Monday | Tuesday |	Wednesday | Thursday | Friday | Saturday | Sunday 
 -- | -- | -- | -- | -- | -- | -- | --
-LAS PALMAS |	Breakfast & Icebreaking @ El Rincon |	Working on the project |	Working on the project |	Working on the project |	Working on the project |	Common Activity |	Free
-
-Third week |	11.03 Monday |	12.03 Tuesday |	13.03 Wednesday |	14.03 Thursday |	15.03 Friday
--- | -- | -- | -- | -- | --
-LAS PALMAS |	Working on the project |	Working on the project |	Working on the project |	Working on the project |	Presentation  
+<span>1</span>ONLINE | <span>26/02</span>Design Sprint | <span>27/02</span>Design Sprint | <span>28/02</span>Design Sprint |<span>29/02</span>Design Sprint |	<span>01/03</span>Design Sprint | <span>02/03</span>Free | <span> 03/03</span>Departure
+<span>2</span>LAS PALMAS | <span>04/03</span>Breakfast & Icebreaking @ El Rincon | <span>05/03</span>Project Work | <span>06/03</span>Project Work | <span>07/03</span>Project Work | <span>08/03</span>Project Work | <span>09/03</span>Common Activity | <span>10/03</span>Free
+<span>3</span>LAS PALMAS | <span>11/03</span>Project Work | <span>12/03</span>Project Work | <span>13/03</span>Project Work | <span>14/03</span>Project Work | <span>15/03</span>Presentation | <span>16/03</span>Free / Departure | <span>17/03</span>Free / Departure
 
 ## Planning Project in March - Day 1
 
@@ -47,3 +43,39 @@ Link to Presentation.
 
 ### What should students be able to do by the end?
 Students are going to learn how to collaborate with students from different cultures and how to manage a project
+
+<style>
+	table {
+		border: solid 1px black;
+	}
+	
+	th {
+		background-color: LightSteelBlue;;
+		color: SteelBlue;
+		border-right: solid 1px black !important;
+		border-bottom: solid 1px black !important;
+	}
+
+	td {
+		vertical-align: top;
+		width: 10%;
+		height: 100px;
+		border-bottom: solid 1px black !important;
+		border-right: solid 1px black !important;
+		background-color: AliceBlue;
+		color: black;
+	}
+
+	td:first-child {
+		background-color: LightSteelBlue;
+		width: 5%;
+	}
+
+	span {
+		display: block;
+		color: SteelBlue;
+		font-weight: bold;
+		margin-bottom: 10px;
+		font-size: 0.8rem;
+	}
+</style>
