@@ -1,6 +1,5 @@
 # Groups
 
-## Group 1
 Group No<br />___________ | Denmark<br />___________ | Spain<br />___________ | Iceland<br />___________ | ESTM<br />___________ 
 -- | -- | -- | -- | -- 
 1 | - | David<br />Kirian | Aaron | 1
