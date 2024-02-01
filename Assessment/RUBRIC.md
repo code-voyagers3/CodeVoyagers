@@ -1,11 +1,5 @@
 
-<style>
-    td{
-        border-right: 2px solid;
-        border-right-color: #000000;
-    }
-    
-</style>
+
 <table style="color: #000000">
   <tr>
    <td  style="background-color: #FFFFFF">RUBRIC
