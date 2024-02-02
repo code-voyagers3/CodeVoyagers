@@ -6,8 +6,9 @@
 2. [Assignment](./Assignment/)
 3. [Schedule](./Schedule/)
 4. [Workflow Guide - Complete](./Guides/Workflow%20Long/)
-4. [Workflow Guide - Dayli](./Guides/Workflow%20Short/)
-5. [Groups](./Groups/)
+5. [Workflow Guide - Dayli](./Guides/Workflow%20Short/)
+6. [Groups](./Groups/)
+7. [Assessment Rubric](./Assessment/)
 
 <a name="to-contribute-to-this-project-you-should"></a>
 ## To contibute to this project you should:
