@@ -1,6 +1,6 @@
 # Groups
 
-Group Name<br />___________ |Denmark<br />___________ | Spain<br />___________ | Iceland<br />___________ | ESTM<br />___________ | Link for repo<br />___________ |
+Group Name |Denmark | Spain | Iceland | ESTM | Link for repo |
  -- | -- | -- | -- | -- | --
 Group 1 | - | David<br />Kirian | Aaron | 1
 Group 2 | Lasse | Adrián Rodríguez<br />Miguel Ángel | Katarina | -
