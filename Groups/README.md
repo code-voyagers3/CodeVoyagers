@@ -10,5 +10,5 @@ Group 5 | Patrik | Adán<br />José Carlos | Sólveig | 1
 Group 6 | Tanja | Aridane<br />Alejandro | Peter | -
 Group 7 | Nicolai | Juan Carlos<br />Javier | Svanlaug | -
 Group 8 | Jannick | Aisha<br />Diego | Ingvi | -
-Group 9 | Amalie | Adrián Armas<br />José Miguel<br />Joel | Pétur | -
+Group 9 | Amalie | Adrián Armas<br />José Miguel | Pétur | -
 Group 10 | - | Joel<br />Leo | Magga | 1
