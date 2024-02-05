@@ -4,10 +4,11 @@
 
 1. [To contribute to this project you should](#to-contribute-to-this-project-you-should)
 2. [Assignment](./Assignment/)
-3. [November meeting schedule](./Meeting%20Notes/NovemberMeetingSchedule.md)
-4. [Schedule](./Schedule/)
-5. [Step by step Github](./Guides/Workflow%20Long/)
-6. [Thoughts for next years project](./Meeting%20Notes/ThoughtsForNextYearsProject.md)
+3. [Schedule](./Schedule/)
+4. [Workflow Guide - Complete](./Guides/Workflow%20Long/)
+5. [Workflow Guide - Dayli](./Guides/Workflow%20Short/)
+6. [Groups](./Groups/)
+7. [Assessment Rubric](./Assessment/)
 
 <a name="to-contribute-to-this-project-you-should"></a>
 ## To contibute to this project you should:
