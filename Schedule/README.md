@@ -6,40 +6,36 @@ Week<br />___________ | Monday<br />___________ | Tuesday<br />___________ | Wed
 `LAS PALMAS`<br />&nbsp; | `04/03`<br />Meetup | `05/03`<br />Project Work | `06/03`<br />Project Work | `07/03`<br />Project Work | `08/03`<br />Project Work | `09/03`<br />Activity | `10/03`<br />Free
 `LAS PALMAS`<br />&nbsp; | `11/03`<br />Project Work | `12/03`<br />Project Work | `13/03`<br />Project Work | `14/03`<br />Project Work | `15/03`<br />Presentation | `16/03`<br />Departure | `17/03`<br />Departure
 
-## Planning Project in March - Day 1
+## Planning Project in March
 
 ### 04.03 Monday - Meetup @ El Rincon
-Meeting in the evening when everyone arrives and having a traditional food at school
+* 08:00am - Meeting at IES El Rincón school. Teachers will make an introduction to the 2 following weeks.
+* 09:00am - Spanish students pick a place and they go with other students of their group.
+* 13:00am - Students are back at the school. Each group make a 5 min. talk about what they have done and/or what their project is about.
+* 14:00am - All is done for today. Tomorrow starts the Project work at IES El Rincón.
 
-### 05.03 Tuesday - Icebreaking
-Spanish students pick a place and they go with other students and create a single slide presentation where they casually talk about the place.
-
-### Roles - Make the students divide themselves into roles.
-Merger of repository
-Backlog
-Frontend / design
-Backend / Content
-Activity manager(Probably Spanish role)
-host
+### 05.03 Tuesday to 08.03 Friday - Project Work
+All groups work on their project.
 
 ### 09.03 Saturday - Common Activity
 Spanish students make some activity for the rest of the participants and make something fun together.
 
-### 15.03 Friday - Presentation
-Students present their project
+### 11.03 Monday to 14.03 Thursday - Project Work
+All groups work on their project.
+
+### 11.03 Friday - Presentation
+Students present their project.
 
 ### Tech Stack
-Base should be React
-Find hosting page for database
-Will they use Express?
-Have digital ocean droplet where you can have a server for mySQL
+* Base should be React.
+* Find hosting for database.
 
 ### What are the expected deliverables from students?
-Link to live page.
-Link to github.
-Link to Figma.
-Link to Design Sprint.
-Link to Presentation.
+- Link to live page.
+- Link to github.
+- Link to Figma.
+- Link to Design Sprint.
+- Link to Presentation.
 
-### What should students be able to do by the end?
-Students are going to learn how to collaborate with students from different cultures and how to manage a project
+### What should students be able to do by the end
+Students are going to learn how to collaborate with students from different cultures and how to manage a project.
