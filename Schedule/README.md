@@ -23,7 +23,7 @@ Spanish students make some activity for the rest of the participants and make so
 ### 11.03 Monday to 14.03 Thursday - Project Work
 All groups work on their project.
 
-### 11.03 Friday - Presentation
+### 15.03 Friday - Final Presentation
 Students present their project.
 
 ### Tech Stack
