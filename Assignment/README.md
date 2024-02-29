@@ -17,7 +17,7 @@ Within these terms, each team are free to choose its own platform, layout and co
 
 - Teams must consist of at least one student from each participating nation
 - Teams must choose the most affordable techstack for the common compentencies in the group
-- Teams must use a typescript based framework for the application development- Content of the application must be data driven (provided by an api or a CMS)
+- Teams must use a javascript based framework for the application development- Content of the application must be data driven (provided by an api or a CMS)
 - The application must contain at least one of each CRUD operations
 - The application must be responsive with a mobile first approach
 - Teams must ensure a good an accessable documentation for all code as well as work and design processes
