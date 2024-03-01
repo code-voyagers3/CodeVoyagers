@@ -1,18 +1,30 @@
-
-
 <table style="color: #000000">
   <tr>
-   <td  style="background-color: #FFFFFF">RUBRIC
+   <td  style="background-color: #FFFFFF">10-point system grades
    </td>
-   <td style="background-color: #99FF99">Grades 0 - 2
+   <td style="background-color: #99FF99">0 - 2
    </td>
-   <td style="background-color: #99FF99">Grades 3 - 4
+   <td style="background-color: #99FF99">3 - 4
    </td>
-   <td style="background-color: #99FF99">Grades 5 - 6
+   <td style="background-color: #99FF99">5 - 6
    </td>
-   <td style="background-color: #99FF99">Grades 7 - 8
+   <td style="background-color: #99FF99">7 - 8
    </td>
-   <td style="background-color: #99FF99">Grades 9 - 10
+   <td style="background-color: #99FF99">9 - 10
+   </td>
+  </tr>
+  <tr>
+   <td  style="background-color: #FFFFFF">7-point system grades
+   </td>
+   <td style="background-color: #99FF99">02
+   </td>
+   <td style="background-color: #99FF99">4
+   </td>
+   <td style="background-color: #99FF99">7
+   </td>
+   <td style="background-color: #99FF99">10
+   </td>
+   <td style="background-color: #99FF99">12
    </td>
   </tr>
   <tr style="background-color: #99FF99">
