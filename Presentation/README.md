@@ -1,5 +1,5 @@
 # Presentation plan
-- Date: Friday march 15th 08:15
+- Date: Friday march 13th 08:15
 - Location: IES El Rincon
 - Participants: Students, teachers, Erasmus+ guests?, Industry professionals?
 
@@ -25,25 +25,25 @@ The program could be like:
 
 | Time | Groupname 
 | -- | -- 
-08:15 | Green Wave Coders
+08:15 | Group 1
 08:30 | 5 minutes break
-08:35 | Kalm
+08:35 | Group 2
 08:50 | 5 minutes break 
-08:55 | The Wanderers
+08:55 | Group 3
 09:10 | 5 minutes break
 09:15 | Group 4
 09:30 | 15 minutes break
-09:45 | Eco Coders
+09:45 | Group 5
 10:00 | 5 minutes break
-10:05 | Crazy Coders
+10:05 | Group 6
 10:20 | 5 minutes break
-10:25 | Passport Pals
+10:25 | Group 7
 10:40 | 15 minutes break
-10:55 | Wild Count
+10:55 | Group 8
 11:10 | 5 minutes break
-11:15 | North Atlantic Alliance
+11:15 | Group 9
 11:30 | 5 minutes break
-11:35 | S-COOL
+11:35 | Group 10
 12:00 | Joint end with pizza, soft drinks and photos of all participants
 
 ## Presentation frame & focus
