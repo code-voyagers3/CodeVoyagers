@@ -2,9 +2,9 @@
 
 Week<br />___________ | Monday<br />___________ | Tuesday<br />___________ | Wednesday<br />___________ | Thursday<br />___________ | Friday<br />___________ | Saturday<br />___________ | Sunday<br />___________ 
 -- | -- | -- | -- | -- | -- | -- | --
-`ONLINE`<br /><br />&nbsp; | `24/03`<br />Introduction to design sprint<br /> | `25/03`<br />Design Sprint<br />&nbsp; | `26/03`<br />GitHub Exercise<br />Design Sprint | `27/03`<br />Design Sprint<br />&nbsp; | `28/03`<br />Group presentations of design sprints | `29/03`<br />Get packed<br />&nbsp; | `30/03`<br />Arrival<br />&nbsp;
-`LAS PALMAS`<br />&nbsp; | `31/03`<br />Meetup<br />Icebreaker Activity | `01/04`<br />Project Work<br /> | `02/04`<br />Project Work | `03/04`<br />Project Work | `04/04`<br />Project Work<br />Common Activity | `05/04`<br />Free | `06/04`<br />Free
-`LAS PALMAS`<br />&nbsp; | `07/04`<br />Project Work | `08/04`<br />Project Work | `09/04`<br />Project Work | `10/04`<br />Project Work | `11/04`<br />Presentation | `12/04`<br />Free | `13/04`<br />Going home
+`ONLINE`<br /><br />&nbsp; | `23/02`<br />Introduction to design sprint<br /> | `24/02`<br />Design Sprint<br />&nbsp; | `25/02`<br />GitHub Exercise<br />Design Sprint | `26/02`<br />Design Sprint<br />&nbsp; | `27/02`<br />Group presentations of design sprints | `28/03`<br />Get packed<br />&nbsp; | `01/03`<br />Arrival<br />&nbsp;
+`LAS PALMAS`<br />&nbsp; | `02/03`<br />Meetup<br />Icebreaker Activity | `03/03`<br />Project Work<br /> | `04/03`<br />Project Work | `05/03`<br />Project Work | `06/03`<br />Project Work<br />Common Activity | `07/03`<br />Free | `08/03`<br />Free
+`LAS PALMAS`<br />&nbsp; | `09/03`<br />Project Work | `10/03`<br />Project Work | `11/03`<br />Project Work | `12/03`<br />Project Work | `13/03`<br />Presentation | `14/03`<br />Free | `15/03`<br />Going home
 
 ## Planning Project in March
 
@@ -13,26 +13,29 @@ Week<br />___________ | Monday<br />___________ | Tuesday<br />___________ | Wed
 <br>09:00 - 14:00 (10:00 - 15:00 Danish time): Common online meeting at Discord. You'll get an invite.
 * **Wednesday**<br> 08:00 - 14:00 (09:00 - 15:00 Danish time): Introduction to the Github branching model by Tiburcio.
 * **Friday:** 
-<br />08:00 (09:00 Danish time): Work on the design sprint<br />13:00 (14:00 Danish time): Presentaions of the danish sprint. Each group make a 5 min. talk about what they have done and/or what their project is about.
+<br />08:00 (09:00 Danish time): Work on the design sprint<br />13:00 (14:00 Danish time): Presentaions of the sprint. Each group make a 5 min. talk about what they have done and/or what their project is about.
 * **Tuesday & Thursday** <br />08:00 - 14:00 (09:00 - 15:00 Danish time): Group work on the design sprint.
 
-### 31.03 Monday - Meetup @ El Rincon
+### 02.03 Monday - Meetup @ El Rincon
 * 09:00 - Meeting at IES El Rincón school. Teachers will make an introduction to the 2 following weeks.
 * 10:00 - Spanish students pick a place and they go with other students of their group.
 * 13:00 - Students are back at the school. Each group make a 5 min. talk about what they have done and/or what their project is about.
 * 14:00 - All is done for today. Tomorrow starts the Project work at IES El Rincón.
 
-### 01.04 Tuesday to 04.04 Friday 08:00 - 14:00 - Project Work
+### 03.03 Tuesday to 06.03 Friday 08:00 - 14:00 - Project Work
 All groups work on their project.
 
-### 04.04 Friday from noon - Common Activity
+### 06.03 Friday from noon - Common Activity
 A common group of students make some activity for the rest of the participants and make something fun together.
 
-### 07.04 Monday to 10.04 Thursday - Project Work
+### 09.03 Monday to 12.03 Thursday - Project Work
 All groups work on their project.
 
-### 11.04 Friday - Final Presentation
+### 13.03 Friday - Final Presentation
 Students present their project.
+
+### Teacher team meetings
+The teacher team have a daily meeting from 11:00 - 12:00.
 
 ### Tech Stack
 * Base should be React.
