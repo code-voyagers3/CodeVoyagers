@@ -1,4 +1,6 @@
-<h1>Assessed on Friday, March 13th 2026</h1>
+<h1>Assessment of the Design sprint, UI and Github</h1>
+<h2>Thursday, March 5th 2026</h2>
+
 <table style="color: #000000">
   <tr>
    <td  style="background-color: #FFFFFF">10-point system grades
@@ -102,8 +104,10 @@
    </td>
   </tr>
 </table>
+<hr>
 
-<h1>Assessed after and/or during the final presentation</h1>
+<h1>Assessment of the final presentation</h1>
+<h2>Friday, March 13th 2026</h2>
 
 <table style="color: #000000">
   <tr>
