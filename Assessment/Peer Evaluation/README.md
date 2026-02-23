@@ -21,10 +21,10 @@ They get this rubric to help them:
 
 Grade | Remarks | Explanation 
 -- | -- | -- 
-10 | Exceptional |  This student needed to take full responsibility for the project
-9 | Really good | This student owns most parts of the project
-8 | Very good | This students took on more than the average of the work
-7 | Good | This student did the same amount of work as others in the group
+10 | Exceptional | This student needed to take full responsibility for the project
+9 | Really good | This student needed to own most parts of the project
+8 | Very good | This student needed to take on more than the average of the work
+7 | Expected | This student did the same amount of work as others in the group
 6 | Acceptable | This student could have been more active in the group work
 5 | Okay | This student took on little responsibility
 4 | Lacking something | This student did not meet the groups standards for work
