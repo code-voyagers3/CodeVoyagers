@@ -197,8 +197,8 @@
      <td>The Q&A session was exceptional, addressing all key questions thoroughly and engaging the audience
      </td>
   </tr>
-</table
-
+</table>
+<hr>
 <h1>Post Assessment (when the project is finished)</h1>
 <h2>March/April 2026</h2>
 
