@@ -24,7 +24,7 @@ Grade | Remarks | Explanation
 10 | Severely overloaded | This student needed to take full responsibility for the project
 9 | Overloaded | This student needed to own most parts of the project
 8 | Slightly overloaded | This student needed to take on more than the average of the work
-7 | Optimal | This student did the same amount of work as others in the group
+7 | **Optimal** | This student did the same amount of work as others in the group
 6 | Acceptable | This student could have been more active in the group work
 5 | Okay | This student took on little responsibility
 4 | Lacking something | This student did not meet the groups standards for work
@@ -35,7 +35,7 @@ Grade | Remarks | Explanation
 
 Let’s say a project gets grated as 7:
 
-- Student A gets 10 on average from peer evaluation (meaning that everyone agreed that he took full responsibility for the project)
+- Student A gets 10 on average from peer evaluation (meaning that everyone agreed that he/she needed to take full responsibility for the project)
 His final grade is then 7*1.3 = 9.4
 
 - Student B worked as expected, nothing more, nothing less and got an average of 7 from peers
@@ -43,6 +43,9 @@ His final grade is then 7*1=7 (same as project)
 
 - Student C was marked in their group but never showed up and gets 0 from everyone (including himself because he knows)
 His final grade is then 7*0.3 = 2.1
+
+> Note: A higher final grade does not mean the project work was excellent.
+It only means that, compared to the rest of the group, this student needed to take on more responsibility or did more of the work.
 
 ## Adjustments and final words
 We can of course create our own scale and change the phrases.
