@@ -10,18 +10,17 @@ Week<br />___________ | Monday<br />___________ | Tuesday<br />___________ | Wed
 
 ### Online Week Meetings
 * **Monday** 
-<br>09:00 - 14:00 (10:00 - 15:00 Danish time): Common online meeting at Discord. You'll get an invite.
+<br>08:00 - 14:00 (9:00 - 15:00 Danish time): Common online meeting at Discord. You'll get an invite.
 
 * **Tuesday to Thursday** <br />08:00 - 14:00 (09:00 - 15:00 Danish time): Group work on the design sprint.
 
 * **Friday:** 
-<br />08:00 (09:00 Danish time): Work on the design sprint<br />13:00 (14:00 Danish time): Final meeting before meetup in Las Palmas
+<br />08:00 (09:00 Danish time): Work on the design sprint<br />11:00 (12:00 Danish time): Final online meeting before meetup in Las Palmas
 
 ### 02.03 Monday - Meetup @ El Rincon
-* 09:00 - Meeting at IES El Rincón school. Teachers will make an introduction to the 2 following weeks.
-* 10:00 - Spanish students pick a place and they go with other students of their group.
-* 13:00 - Students are back at the school. Each group make a 5 min. talk about what they have done and/or what their project is about.
-* 14:00 - All is done for today. Tomorrow starts the Project work at IES El Rincón.
+* 08:00 - Meetup at IES El Rincón school.
+* 08:30 - **Explore & Connect** Icebreaker activitity where each group visit and completes a mission on a specific location. 
+[Se mission &raquo;](https://docs.google.com/document/d/1oWVqih4BzK_j7tKFTFaPK1vMPtU_UocUQIX9zvHGyFU/edit?usp=sharing)
 
 ### 03.03 Tuesday to 06.03 Friday 08:00 - 14:00 - Project Work
 All groups work on their project.
