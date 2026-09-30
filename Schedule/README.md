@@ -2,9 +2,9 @@
 
 Week<br />___________ | Monday<br />___________ | Tuesday<br />___________ | Wednesday<br />___________ | Thursday<br />___________ | Friday<br />___________ | Saturday<br />___________ | Sunday<br />___________ 
 -- | -- | -- | -- | -- | -- | -- | --
-`ONLINE`<br /><br />&nbsp; | `11/01`<br />Introduction to design sprint<br /> | `12/01`<br />Design Sprint<br />&nbsp; | `13/01`<br />Design Sprint | `14/01`<br />Design Sprint<br />&nbsp; | `15/01`<br />Design Sprint | `16/01`<br />Get packed<br />&nbsp; | `17/01`<br />Arrival<br />&nbsp;
-`LAS PALMAS`<br />&nbsp; | `18/01`<br />Meetup<br />Icebreaker Activity | `19/01`<br />Project Work<br /> | `20/01`<br />Project Work | `21/01`<br />Project Work<br />Presentation of design and github | `22/01`<br />Project Work<br />Common Grill Activity | `23/01`<br />Free | `24/01`<br />Free
-`LAS PALMAS`<br />&nbsp; | `25/01`<br />Project Work | `26/01`<br />Project Work | `27/01`<br />Project Work | `28/01`<br />Project Work | `29/01`<br />Presentation | '30/01`<br />Free | `31/01`<br />Going home
+`ONLINE`<br /><br />&nbsp; | `11/01`<br />Introduction to design sprint<br /> | `12/01`<br />Design Sprint<br /><br />&nbsp; | `13/01`<br />Design Sprint<br /><br />&nbsp; | `14/01`<br />Design Sprint<br /><br />&nbsp; | `15/01`<br />Design Sprint<br /><br />&nbsp; | `16/01`<br />Get packed<br /><br />&nbsp; | `17/01`<br />Arrival<br /><br />&nbsp;
+`LAS PALMAS`<br />&nbsp; | `18/01`<br />Meetup<br />Icebreaker Activity | `19/01`<br />Project Work<br /><br />&nbsp; | `20/01`<br />Project Work<br /><br />&nbsp; | `21/01`<br />Project Work<br />Presentation of design and github | `22/01`<br />Project Work<br />Common Grill Activity<br /> | `23/01`<br />Free<br /><br />&nbsp; | `24/01`<br />Free<br /><br />&nbsp;
+`LAS PALMAS`<br />&nbsp; | `25/01`<br />Project Work<br /><br />&nbsp; | `26/01`<br />Project Work<br /><br />&nbsp; | `27/01`<br />Project Work<br /><br />&nbsp; | `28/01`<br />Project Work<br /><br />&nbsp; | `29/01`<br />Presentation<br />Pizza<br />&nbsp; | '30/01`<br />Free | `31/01`<br />Going home
 
 ## Planning Project in March
 
